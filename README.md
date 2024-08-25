@@ -1,4 +1,4 @@
-# VHH-3D-pipeline-prediction
+# VHH-3D-pipeline
 
 This is pipeline is based upon the following research projects:
 
